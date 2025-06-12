@@ -71,15 +71,19 @@ This is a deep learning-based web application for early detection and classifica
 ```bash
 git clone https://github.com/ASHRITH-SAMBARAJU/BRAIN-TUMOR-DETECTION.git
 cd BRAIN-TUMOR-DETECTION
+```
 
 # (Optional) Create and activate a virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
-
+```
 # Install required dependencies
+```bash
 pip install -r requirements.txt
-
+```
 # Run the Streamlit app
+```bash
 streamlit run main.py
 ```
 ---
