@@ -96,8 +96,8 @@ streamlit run main.py
 For any questions, support, or collaboration inquiries:
 
 **Ashrith Sambaraju**  
-📧 Email: ashrithsambaraju@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ashrith-sambaraju](https://www.linkedin.com/in/ashrith-sambaraju)
+  Email: ashrithsambaraju@gmail.com  
+  LinkedIn: [linkedin.com/in/ashrith-sambaraju](https://www.linkedin.com/in/ashrith-sambaraju)
 
 
 
