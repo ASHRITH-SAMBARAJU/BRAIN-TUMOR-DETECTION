@@ -73,16 +73,16 @@ git clone https://github.com/ASHRITH-SAMBARAJU/BRAIN-TUMOR-DETECTION.git
 cd BRAIN-TUMOR-DETECTION
 ```
 
-# (Optional) Create and activate a virtual environment
+### 2. Create and activate a virtual environment (Optional)
 ```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
 ```
-# Install required dependencies
+### 3. Install required dependencies
 ```bash
 pip install -r requirements.txt
 ```
-# Run the Streamlit app
+### 4 . Run the Streamlit app
 ```bash
 streamlit run main.py
 ```
