@@ -88,9 +88,7 @@ streamlit run main.py
 ```
 ---
 
-### Contact
-
-### Contact
+## Contact
 
 For any questions, support, or collaboration inquiries:
 
