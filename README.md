@@ -40,6 +40,7 @@ This is a deep learning-based web application for early detection and classifica
 ![MRI Treatment Recommendation](data/outputs/mri_based_treatment_recommedation.jpg)
 
 **MRI-Based Medical Report**  
+
 ![MRI Medical Report](data/outputs/mri_based_medicalreport.png)
 
 ---
@@ -53,6 +54,7 @@ This is a deep learning-based web application for early detection and classifica
 ![Symptom Treatment Recommendation](data/outputs/symptom_based_treatment_recommendation.jpg)
 
 **Symptom-Based Medical Report**  
+
 ![Symptom Medical Report](data/outputs/symptom_based_medicalreport.png)
 
 ---
@@ -60,6 +62,7 @@ This is a deep learning-based web application for early detection and classifica
 ### Evaluation Results
 
 **Model Accuracy, Loss, and Classification Report**  
+
 ![Evaluation Results](data/outputs/evaluation_results.png)
 
 ---
