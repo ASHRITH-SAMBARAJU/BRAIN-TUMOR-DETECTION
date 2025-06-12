@@ -16,13 +16,16 @@ This is a deep learning-based web application for early detection and classifica
 
 ---
 
-## Technology Stack  
+## Technology Stack
 
-- **Deep Learning Models**: VGG16, ResNet-50, EfficientNetB2  
-- **Explainability**: Grad-CAM (Class Activation Mapping)  
-- **Frontend**: Streamlit  
-- **Backend**: Python, TensorFlow/Keras, OpenCV  
-- **PDF Generation**: ReportLab / FPDF / PyMuPDF  
+| Category           | Tools/Frameworks                                   |
+|--------------------|----------------------------------------------------|
+| Deep Learning Models | VGG16, ResNet-50, EfficientNetB2                 |
+| Explainability      | Grad-CAM (Class Activation Mapping)               |
+| Frontend            | Streamlit                                         |
+| Backend             | Python, TensorFlow/Keras, OpenCV                  |
+| PDF Generation      | ReportLab, FPDF, PyMuPDF                          |
+
 
 ---
 
