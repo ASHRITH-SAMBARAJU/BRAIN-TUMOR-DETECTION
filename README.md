@@ -33,7 +33,7 @@ This is a deep learning-based web application for early detection and classifica
 
 ### MRI-Based Classification
 
-**Filling Patient Details**  
+-**Filling Patient Details**  
 ![Filling Patient Details](data/outputs/filling_patient%20details.jpg)
 
 **MRI-Based Classification Output**  
