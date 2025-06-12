@@ -71,8 +71,4 @@ This is a deep learning-based web application for early detection and classifica
 ```bash
 git clone https://github.com/ASHRITH-SAMBARAJU/BRAIN-TUMOR-DETECTION.git
 cd BRAIN-TUMOR-DETECTION
-Contact
-For questions, feedback, or collaboration opportunities, feel free to reach out:
-## Contact
-Ashrith Sambaraju
-📧 Email: ashrithsambaraju@gmail.com
+
