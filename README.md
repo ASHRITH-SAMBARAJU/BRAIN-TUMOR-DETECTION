@@ -66,9 +66,21 @@ This is a deep learning-based web application for early detection and classifica
 
 ## How to Run the Project
 
-### 1. Clone the Repository
+### 1. Clone the Repository and Set Up the Environment
 
 ```bash
 git clone https://github.com/ASHRITH-SAMBARAJU/BRAIN-TUMOR-DETECTION.git
 cd BRAIN-TUMOR-DETECTION
+
+# (Optional) Create and activate a virtual environment
+python -m venv venv
+venv\Scripts\activate   # For Windows
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run main.py
+
+
 
