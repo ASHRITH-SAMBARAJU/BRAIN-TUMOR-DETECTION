@@ -33,13 +33,16 @@ This is a deep learning-based web application for early detection and classifica
 
 ### MRI-Based Classification
 
--**Filling Patient Details**  
+**Filling Patient Details**  
+
 ![Filling Patient Details](data/outputs/filling_patient%20details.jpg)
 
 **MRI-Based Classification Output**  
+
 ![MRI Classification](data/outputs/mri_based_classification.jpg)
 
 **MRI-Based Treatment Recommendation**  
+
 ![MRI Treatment Recommendation](data/outputs/mri_based_treatment_recommedation.jpg)
 
 **MRI-Based Medical Report**  
@@ -51,9 +54,11 @@ This is a deep learning-based web application for early detection and classifica
 ### Symptom-Based Classification
 
 **Symptom-Based Classification Interface**  
+
 ![Symptom Classification](data/outputs/symptom_based_classification.jpg)
 
 **Symptom-Based Treatment Recommendation**  
+
 ![Symptom Treatment Recommendation](data/outputs/symptom_based_treatment_recommendation.jpg)
 
 **Symptom-Based Medical Report**  
